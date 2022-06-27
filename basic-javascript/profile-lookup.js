@@ -1,3 +1,5 @@
+// https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup
+
 // We have an array of objects representing different people in our contacts lists.
 
 const contacts = [

@@ -1,3 +1,5 @@
+// https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection
+
 // You start with an updateRecords function that takes an object literal, records, 
 // containing the musical album collection, an id, a prop (like artist or tracks), and a value. 
 // Complete the function using the rules below to modify the object passed to the function.
